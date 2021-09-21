@@ -6,3 +6,4 @@ São inseridas as informações: quantidade de adultos, quantidade de crianças 
 
 O programa retorna a quantidade de carne, cerveja e bebidas (água e refrigerante).
 
+Link do site: oandreroquechurrascometro.netlify.app
